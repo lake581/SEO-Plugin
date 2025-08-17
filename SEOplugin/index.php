@@ -2,7 +2,7 @@
 /*
 Plugin Name: Simple SEO Plugin
 Plugin URI: https://sergeymuzharovsky.com/plugins-for-wordpress/
-Description: SEO плагин для WordPress: добавляет мета-теги, генерирует sitemap и интегрируется с Яндекс Метрикой.
+Description: SEO плагин для WordPress: добавляет мета-теги (description и keywords) и интегрируется с Яндекс Метрикой.
 Version: 1.2.1
 Author: Sergey Muzharovsky
 Author URI: https://sergeymuzharovsky.com | https://sergeydev.com
